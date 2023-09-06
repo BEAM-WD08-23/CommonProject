@@ -167,3 +167,6 @@ this is a [link](../myDir/myFile.txt) to my other folder/file
 <https://www.bbc.com>
 
 <myemail@gmail.com>
+
+
+# afternoon to parctise git branch, git fork, git clone, pull, PR, merge ....
